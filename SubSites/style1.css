@@ -76,8 +76,8 @@ button {
     width: 200px;
     height: 71px;
     position: absolute;
-    margin-top: 6%;
-    margin-left: 63%;
+    margin-top: 57%;
+    margin-left: 300px;
     background-color: #b41700;
     -moz-border-radius: 18px;
     -webkit-border-radius: 18px;
@@ -109,10 +109,10 @@ button {
 
 #logoPlaneta {
     position: absolute;
-    float: right;
-    margin-top: 60%;
-    margin-left: 62%; }
+    margin-left: 300px;
+    margin-top: 68%;
 
+}
 #test {
     width: 200px;
     height: 200px;
