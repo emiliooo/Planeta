@@ -105,12 +105,20 @@ button{
 .tit,.test{
   text-align: center;
 }
+
+.tit{
+  width: 100%;
+  font-size: 24px;
+
+}
+
+
 .sth{
   position: absolute;
 }
 .foot{
   position: absolute;
-  margin-top: 151px;
+  margin-top: 180px;
 }
 
 #logoPlaneta{
@@ -118,4 +126,12 @@ button{
   float: right;
   margin-top: 30%;
   margin-left: 62%;
+}
+
+#test{
+  width: 200px;
+  height: 200px;
+  float:right;
+  margin-left: 30px;
+
 }
