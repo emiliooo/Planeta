@@ -8,6 +8,7 @@ body {
    }
 
 .kontener {
+  position: relative;
   width:800px;
   height:800px;
   max-width: 800px;
@@ -72,7 +73,7 @@ body {
   width: 100%; }
 
 .strLine1{
-  width: 100%;
+  width: 150%;
   height: 117px;
   background-color: #b41700;
   margin-top: 211px;
@@ -87,5 +88,15 @@ button{
   margin-left: 201px;
 }
 
+.tit,.test{
+  text-align: center;
+}
+.sth{
+  position: absolute;
+}
+.foot{
+  position: absolute;
+  margin-top: 151px;
 
 
+}
