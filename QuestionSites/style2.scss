@@ -9,6 +9,7 @@ body {
   font-family: Montserrat-Regular;
   src: url("Font/Montserrat-Regular.ttf");
   font-weight: 100; }
+
 .kontener {
   position: relative;
   width: 800px;
@@ -17,12 +18,13 @@ body {
   min-height: 800px;
   background-image: url("../PIC/backg.png");
   background-repeat: no-repeat;
-  background-size: cover; }
-
+  background-size: cover;
+}
 .grid-container {
   margin: 0 auto;
   width: 100%;
-  height: 100%; }
+  height: 100%;
+}
 
 .row:before,
 .row:after {
@@ -94,39 +96,47 @@ button {
   font-size: 19px;
   padding: 21px 64px;
   text-decoration: none;
-  text-shadow: 0px 1px 0px #2f6627; }
+  text-shadow: 0px 1px 0px #2f6627;
+}
 
 .tit, .test {
-  text-align: center; }
+  text-align: center;
+}
 
 .tit {
   width: 100%;
   font-size: 24px; }
 
+
+
 .foot {
   position: absolute;
-  margin-top: 458px; }
+  margin-top: 458px;
+}
 
 #logoPlaneta {
   position: absolute;
   margin-left: 300px;
-  margin-top: 68%; }
+  margin-top: 68%;
 
+}
 #test {
   width: 200px;
   height: 200px;
   float: right;
   margin-left: 30px; }
 
-.square1 {
+.square1{
+
   position: absolute;
   width: 700px;
   height: 50px;
   border: 2px solid black;
   border-radius: 18px;
-  margin-left: 56px; }
+  margin-left: 56px;
 
-.square2 {
+}
+.square2{
   display: block;
   position: absolute;
   width: 700px;
@@ -134,9 +144,10 @@ button {
   border: 2px solid black;
   border-radius: 18px;
   margin-left: 56px;
-  margin-top: 60px; }
+  margin-top:60px;
 
-.square3 {
+}
+.square3{
   display: block;
   position: absolute;
   width: 700px;
@@ -144,9 +155,11 @@ button {
   border: 2px solid black;
   border-radius: 18px;
   margin-left: 56px;
-  margin-top: 120px; }
+  margin-top: 120px;
 
-.square4 {
+
+}
+.square4{
   display: block;
   position: absolute;
   width: 700px;
@@ -154,9 +167,11 @@ button {
   border: 2px solid black;
   border-radius: 18px;
   margin-left: 56px;
-  margin-top: 180px; }
+  margin-top: 180px;
+}
 
-#tables {
-  margin-top: 30px; }
+#tables{
 
-/*# sourceMappingURL=style2.css.map */
+margin-top:30px;
+
+}
