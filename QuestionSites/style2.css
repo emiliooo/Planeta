@@ -167,8 +167,8 @@ label {
   border-radius: 18px;
   cursor: pointer; }
 
-.square1 label {
-  color: red;
+label {
+  color: black;
   font-size: 24px; }
 
 /*# sourceMappingURL=style2.css.map */
